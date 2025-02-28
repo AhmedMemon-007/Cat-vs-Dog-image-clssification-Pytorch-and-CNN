@@ -22,7 +22,7 @@ This project implements a **Convolutional Neural Network (CNN)** using **PyTorch
 ## 📥 Dataset  
 This project uses a **large dataset** hosted on **Google Drive**.  
 You can download it from the following link:  
-👉 [Download Dataset]((https://drive.google.com/drive/folders/1H0QgJqe13KRY5iYrcaY7pHENdW74-6ui?usp=sharing))  
+👉https://drive.google.com/drive/folders/1H0QgJqe13KRY5iYrcaY7pHENdW74-6ui?usp=sharing
 
 After downloading, place the dataset inside the `data/` directory.  
 
