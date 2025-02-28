@@ -16,7 +16,7 @@ This project implements a **Convolutional Neural Network (CNN)** using **PyTorch
 ---
 
 ## 📂 Project Structure  
-📁 Cat_vs_Dog_Classification │── 📜 Cat_vs_Dog_image_classification_(Pytorch_and_CNN).ipynb # Jupyter Notebook with full implementation │── 📁 data/ # Directory for dataset (optional if downloading from Drive) │── 📁 models/ # Trained models and saved weights │── 📁 outputs/ # Evaluation results, misclassified images, and visualizations │── README.md # Project documentation
+📁 Cat_vs_Dog_Classification │── 📜 Cat_vs_Dog_image_classification_(Pytorch_and_CNN).ipynb # Jupyter Notebook with full implementation │── 📁 data/ # Directory for dataset ([optional if downloading from Drive](https://drive.google.com/drive/folders/1H0QgJqe13KRY5iYrcaY7pHENdW74-6ui?usp=sharing)) │── 📁 models/ # Trained models and saved weights │── 📁 outputs/ # Evaluation results, misclassified images, and visualizations │── README.md # Project documentation
 ---
 
 ## 📥 Dataset  
